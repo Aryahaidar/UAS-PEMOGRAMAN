@@ -1,0 +1,23 @@
+# ===== NetBeans / Java build output =====
+build/
+dist/
+nbproject/private/
+
+# ===== Compiled class files =====
+*.class
+
+# ===== Log files =====
+*.log
+
+# ===== OS-specific files =====
+.DS_Store
+Thumbs.db
+
+# ===== IDE files (selain NetBeans project files) =====
+.idea/
+*.iml
+.vscode/
+
+# ===== File sementara editor =====
+*~
+*.swp
